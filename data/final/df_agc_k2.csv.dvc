@@ -1,0 +1,5 @@
+outs:
+- md5: 7a43c876ff772c1d9967d625daeac1df
+  size: 2134996
+  hash: md5
+  path: df_agc_k2.csv
